@@ -47,7 +47,7 @@ module MessageMediaMessages
     # @return [DateTime]
     attr_accessor :scheduled
 
-    # Scheduled delivery date time of the message
+    # The title the users sees on their mobile
     # @return [String]
     attr_accessor :source_number
 
